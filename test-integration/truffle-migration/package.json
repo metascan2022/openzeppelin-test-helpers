@@ -6,6 +6,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "truffle": "^5.0.15"
+    "truffle": "^5.10.1"
   }
 }
